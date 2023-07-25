@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors.js
-Rock paper scissors program in JavaScript
+A rock, paper, scissors program using JavaScript. You, the user, enters rock, paper, or scissors into the program, and the program runs and determines if you've won or not.
+
