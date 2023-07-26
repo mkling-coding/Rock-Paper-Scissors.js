@@ -3,4 +3,5 @@ A rock, paper, scissors program using JavaScript. You, the user, enters rock, pa
 
 ## Run instructions
 1. Download project
-2. Run 'node rockPaperScissors.js' in terminal
+2. Open project
+3. Run 'node rockPaperScissors.js' in terminal
